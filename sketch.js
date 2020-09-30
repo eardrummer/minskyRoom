@@ -10,7 +10,7 @@ var content_centers = [], content_audio =[];
 function preload(){
 	img_home = loadImage('assets/Minsky_Home.png');
 	//vid_piano = createVideo('assets/marvin_full_hands.mov')
-	audio_music = createAudio('assets/marvin_full_hands_audio.m4a');
+	audio_music = createAudio('assets/audio_minskyMusic.mp3');
 	audio_confocal = createAudio('assets/audio_confocal.mp3');
 	audio_piano = createAudio('assets/audio_piano1.mp3');
 	audio_studies = createAudio('assets/audio_studies1.mp3');
